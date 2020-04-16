@@ -1,4 +1,4 @@
-# covid19
+# Covid 19 - Flutter APP UI
 
 A new Flutter application.
 
